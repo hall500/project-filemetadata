@@ -1,0 +1,12 @@
+<!-- http://www.efellow.com -->
+
+Platform: PHPMYADMIN
+Language: MYSQL
+
+How to install database
+(1) Open phpmyadmin on your browser after setting it up.
+(2) Go to the import tab.
+(3) Click the browse button.
+(4) Go to the folder where the sql files are located.
+(5) First, select the INSTALL.sql file and click on GO at the bottom of the page.
+(6) For testing purposes, also select the sampleDATA.sql file and install it.
